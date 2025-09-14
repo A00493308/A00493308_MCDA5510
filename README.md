@@ -1,5 +1,5 @@
 # A00493308_MCDA5510
-MCDA5510 Class Assignment
+MCDA5510 Individual Class Assignment
 
 ## Introduction
 My name is Jayanta Sarker Shuva, and I'm a computer science graduate with a decade of professional experience in data analytics. I'm looking forward to applying my background to my studies here. You can best reach me at my preferred email, Jayanta.Sarker.Shuva@smu.ca, and my student ID is A00493308.
